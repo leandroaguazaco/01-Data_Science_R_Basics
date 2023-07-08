@@ -1,4 +1,4 @@
-# 01-Data_Science_R_Basics
+# 01 - Data Science R Basics
 
 <div align="left">
 
